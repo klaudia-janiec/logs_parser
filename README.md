@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/klaudia-janiec/logs_parser.svg?style=svg)](https://circleci.com/gh/klaudia-janiec/logs_parser)
+
 Write a ruby script that:
 - Receives a log as argument (webserver.log is provided) e.g. `./parser.rb webserver.log`
 - Returns the following:
